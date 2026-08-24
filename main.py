@@ -29,8 +29,8 @@ def find_People_you_may_know(user_id , data):
 
 
 
-data = load_data("")
-user_id = 1
+data = load_data("data.json")
+user_id = 10
 
 recommendations = find_People_you_may_know(user_id , data)
 print(f"People You May Know For user {user_id} : {recommendations}")
