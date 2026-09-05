@@ -94,6 +94,4 @@ people-you-may-know/
 * Improve recommendation ranking
 * Build a web version using Flask
 
-## 📄 License
-
-This project is for learning and educational purposes.
+```
